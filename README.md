@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub
+
+My repositories here are primarily personal projects and research done during my free time.
+
+![alt text](/Users/nickseah/Desktop/html5up-dimension (1)/images/Collage.jpg)
+
+
+
 
 <!--
 **nickseah1/nickseah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
