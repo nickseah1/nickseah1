@@ -2,7 +2,7 @@
 
 My repositories here are primarily personal projects and research done during my free time.
 
-![nickseah1](collage.jpeg)
+![nickseah1](Collage.jpg)
 
 
 
