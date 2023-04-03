@@ -2,7 +2,7 @@
 
 My repositories here are primarily personal projects and research done during my free time.
 
-![alt text](/Users/nickseah/Desktop/html5up-dimension (1)/images/Collage.jpg)
+![nickseah1](collage.jpg)
 
 
 
